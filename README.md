@@ -1,4 +1,4 @@
-# mlflow_tutorial
+# mlflow tutorial
 
 Repositório do artigo: https://medium.com/data-hackers/gerenciando-o-ciclo-de-vida-do-seu-modelo-de-machine-learning-com-mlflow-f06dde18494
 
